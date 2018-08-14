@@ -1,0 +1,15 @@
+#navBar {
+  background-color: black
+}
+
+#home {
+  color: #5be5fd;
+}
+
+#result {
+  text-align: center;
+}
+
+#scoreBoard, #result {
+  color: #eff141;
+}
